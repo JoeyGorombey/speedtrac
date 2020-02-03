@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062210992508",
+    "firebase_url": "https://speedtrac-app.firebaseio.com",
+    "project_id": "speedtrac-app",
+    "storage_bucket": "speedtrac-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062210992508:android:025e2dc2a1746c47170cf9",
+        "android_client_info": {
+          "package_name": "com.speedtrac.speedtrac_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062210992508-om3c3aav24ikoj48ncgbbu499ds7kl9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUN1btNB3z6e0MwxoZ7EPt4p5tVj_z35E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062210992508-om3c3aav24ikoj48ncgbbu499ds7kl9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
