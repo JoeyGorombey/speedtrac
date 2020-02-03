@@ -8,12 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1062210992508:android:025e2dc2a1746c47170cf9",
+        "mobilesdk_app_id": "1:1062210992508:android:05cb3d58489a28e1170cf9",
         "android_client_info": {
           "package_name": "com.speedtrac.speedtrac_app"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "1062210992508-6d19ieoklv52a7qafifl9ce6dqa6l9gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.speedtrac.speedtrac_app",
+            "certificate_hash": "fc3d675937ac3aef38d627bc4dd8460f7a4ee574"
+          }
+        },
         {
           "client_id": "1062210992508-om3c3aav24ikoj48ncgbbu499ds7kl9s.apps.googleusercontent.com",
           "client_type": 3
